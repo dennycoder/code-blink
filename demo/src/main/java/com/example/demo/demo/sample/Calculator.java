@@ -18,6 +18,7 @@ public class Calculator {
     }
     // aaded the new change
     // this the second chnage
+    // this is the third change
 /////// this is my first file and i want to comit the chanbes fsdf
     public double divide(double a, double b) {
         if (b == 0) {
