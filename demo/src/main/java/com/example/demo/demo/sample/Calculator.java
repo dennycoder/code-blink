@@ -16,7 +16,7 @@ public class Calculator {
     public double multiply(double a, double b) {
         return a * b;
     }
-
+/////// this is my first file and i want to comit the chanbes fsdf
     public double divide(double a, double b) {
         if (b == 0) {
             throw new IllegalArgumentException("Cannot divide by zero");
